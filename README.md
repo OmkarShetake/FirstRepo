@@ -1,4 +1,4 @@
 # FirstRepo
 This is my first repository
 <br>
-Author - Omkar Shetake
+Author - Omkar Shetake(CSE)
